@@ -7,8 +7,7 @@ Hello 👋, I am cocosilex. I develop for fun when i have some free time. I main
 
 ## Technologies
 - Java + Gradle
-- TypeScript
-- NodeJS + pnpm
+- TypeScript + NodeJS + pnpm
 - Docker
 - PostgreSQL
 - Git/GitHub
