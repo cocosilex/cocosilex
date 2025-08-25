@@ -1,16 +1,19 @@
-## Hi there 👋
+# cocosilex
+Hello 👋, I am cocosilex. I develop for fun when i have some free time. I mainly dev in Java and Typescript.
 
-<!--
-**cocosilex/cocosilex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects
+- I mainly dev for [HyCastle](https://discord.gg/R9DxMkwtzH) a Discord server for the french Hypixel Skyblock community. Projects are mainly in TypreScript and Java.
+- [BridgeBot](https://github.com/cocosilex/bridgebot) is a Discord bot that bridges messages between Hypixel and Discord dev in TypeScript. The goal of this bot is to stay very simple and easy to use. 
 
-Here are some ideas to get you started:
+## Technologies
+- Java + Gradle
+- TypeScript
+- NodeJS + pnpm
+- Docker
+- PostgreSQL
+- Git/GitHub
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Discord: cocosilex
+
