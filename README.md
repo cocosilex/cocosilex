@@ -12,6 +12,7 @@ Hello 👋, I am cocosilex. I develop for fun when i have some free time. I main
 - PostgreSQL
 - Git/GitHub
 - Linux
+- C 
 
 ## Contact
 - Discord: cocosilex
