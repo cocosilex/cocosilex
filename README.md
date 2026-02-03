@@ -1,5 +1,5 @@
 # cocosilex
-Hello 👋, I am cocosilex. I develop for fun when i have some free time. I mainly dev in Java and Typescript.
+Hello 👋. I develop for fun when i have some free time. I mainly dev in Ocaml/C/Java/Typescript.
 
 ## My Projects
 - I mainly dev for [HyCastle](https://discord.gg/R9DxMkwtzH) a Discord server dedicated to the french Hypixel Skyblock community. Projects are mainly in TypeScript and Java.
