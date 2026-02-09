@@ -17,5 +17,5 @@ Hello 👋. I develop for fun when i have some free time. I mainly dev in Ocaml/
 - TypeScript + NodeJS + pnpm
 
 ## Contact
-- Discord: cocosilex
+- Discord: [cocosilex](https://discord.com/users/825309267757629470).
 
