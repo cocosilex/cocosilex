@@ -3,7 +3,7 @@ Hello 👋. I develop for fun when i have some free time. I mainly dev in Ocaml/
 
 ## My Projects
 - I do some C and Ocaml 👀 , for school and when I have free time.
-- I dev for [HyCastle](https://discord.gg/R9DxMkwtzH) a Discord server dedicated to the french Hypixel Skyblock community. Projects are mainly in TypeScript and Java (and SQL).
+- I dev for [HyCastle](https://discord.gg/R9DxMkwtzH) a Discord server dedicated to the french Hypixel Skyblock community. Projects are mainly in TypeScript and Java (and SQL) - I've done a full tickets app and an Hypixel Verification / a Skyblock Event tracker is on its way -.
 - [BridgeBot](https://github.com/cocosilex/bridgebot) is a Discord bot that bridges messages between Hypixel and Discord. Dev in TypeScript. The goal of this bot is to stay very simple and easy to use.
 
 ## Technologies
